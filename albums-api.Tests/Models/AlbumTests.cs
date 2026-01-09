@@ -1,4 +1,5 @@
 using albums_api.Models;
+using System.Linq;
 
 namespace albums_api.Tests.Models
 {
